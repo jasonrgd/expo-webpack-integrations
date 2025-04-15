@@ -1,6 +1,6 @@
 {
   "name": "@expo/next-adapter",
-  "version": "6.0.0",
+  "version": "6.0.1",
   "author": "Expo <support@expo.dev>",
   "description": "Adapter for using Next.js to bundle Expo web projects",
   "keywords": [
@@ -40,7 +40,7 @@
   },
   "peerDependencies": {
     "expo": ">=46",
-    "react-native-web": "^0.18 || ^0.19",
+    "react-native-web": "^0.18 || ^0.19 || ^0.20",
     "webpack": "^4.46.0 || ^5.74.0"
   },
   "publishConfig": {
